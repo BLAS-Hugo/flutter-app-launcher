@@ -1,5 +1,9 @@
-/// A Calculator.
-class Calculator {
-  /// Returns [value] plus 1.
-  int addOne(int value) => value + 1;
+final class FlutterAppLauncher {
+  // launch app || open app store
+
+  // is app installed
+
+  // open app store
+
+  // launch app
 }

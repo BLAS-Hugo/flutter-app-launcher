@@ -110,6 +110,35 @@ coverage/
 # Symbols
 app.*.symbols
 
+# Environment files
+.env
+.env.local
+.env.production
+.env.test
+
+# IDE files
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+.vscode/extensions.json
+.idea/
+
+# FVM
+.fvm/
+
+# AI and Cursor related
+.cursor/
+.cursorrules
+*.ai
+*.claude
+.claude/
+.anthropic/
+.openai/
+.copilot/
+.github-copilot/
+.vscode/copilot.json
+.vscode/settings-copilot.json
+
 # Exceptions to above rules.
 !**/ios/**/default.mode1v3
 !**/ios/**/default.mode2v3
